@@ -17,6 +17,6 @@ Para compilar este jogo no Windows execute o seguinte comando:
 
 Para navegar na interface escreva a opção desejada.
 
-Quando for a tua vez de jogar, o programa ira pedir-te as coordenadas:
+Quando for a sua vez de jogar, o programa ira pedir-te as coordenadas:
 1. Insira o número da linha desejada e pressione Enter.
 2. Insira o número da coluna desejada e pressione Enter.
